@@ -1,0 +1,18 @@
+{
+    "name": "joefazee/data-operation",
+    "authors": [
+        {
+            "name": "Abah Joseph",
+            "email": "joefazee@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        },
+        "files": [
+            "core/functions.php"
+        ]
+    }
+}
